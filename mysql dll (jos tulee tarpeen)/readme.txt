@@ -1,0 +1,1 @@
+lis‰‰ n‰m‰ filut ShereYourMovies\ShereYourMovies\bin kansioon jos tulee mysql provider erroreita.
